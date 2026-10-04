@@ -11,7 +11,7 @@ ProteinCV has two sides. The **writing side** marks a CV PDF so that any AI read
 - [0.1.0: the Notice and the Guard](releases/0.1.0) (tag `v0.1.0`)
 - [0.2.0: the Simulation](releases/0.2.0) (tag `v0.2.0`)
 - [0.2.1: the Installed Persona](releases/0.2.1) (tag `v0.2.1`)
-- [0.3.0: the website](releases/0.3.0) (in review, not yet tagged)
+- [0.3.0: the website](releases/0.3.0) (tag `v0.3.0`)
 
 ## Vocabulary
 
@@ -20,6 +20,7 @@ Every term on these pages (Owner, Notice, Protected CV, Guard, Decision, Profile
 - https://github.com/ronxbysu/proteincv/releases/tag/v0.1.0
 - https://github.com/ronxbysu/proteincv/releases/tag/v0.2.0
 - https://github.com/ronxbysu/proteincv/releases/tag/v0.2.1
+- https://github.com/ronxbysu/proteincv/releases/tag/v0.3.0
 
 ## Requirements, every release
 
