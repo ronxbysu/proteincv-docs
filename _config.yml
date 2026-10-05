@@ -1,4 +1,7 @@
 title: ProteinCV
 description: A CV that tells AI readers the Owner withholds consent, and a Simulation that answers a Posting as the Owner would.
 theme: jekyll-theme-minimal
+exclude:
+  - superpowers/
+  - agents/
 baseurl: "/proteincv-docs"
