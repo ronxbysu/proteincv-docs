@@ -20,6 +20,7 @@ ProteinCV has two sides. The **writing side** marks a CV PDF so that any AI read
 - [0.4.0: the Tripwire spike](releases/0.4.0) (branch `release-0.4.0`, tag `v0.4.0`)
 - [0.4.1: the Notice in parts](releases/0.4.1) (branch `release-0.4.1`, tag `v0.4.1`)
 - [0.5.0: proteincv.com](releases/0.5.0) (branch `release-0.5.0`, tag `v0.5.0`)
+- [0.5.1: Subscriptions in their own module](releases/0.5.1) (branch `release-0.5.1`, tag `v0.5.1`)
 
 ## Vocabulary
 
