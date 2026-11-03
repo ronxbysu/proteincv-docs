@@ -23,6 +23,7 @@ ProteinCV has two sides. The **writing side** marks a CV PDF so that any AI read
 - [0.5.1: Subscriptions in their own module](releases/0.5.1) (branch `release-0.5.1`, tag `v0.5.1`)
 - [0.5.2: Terms and a 14-day withdrawal right](releases/0.5.2) (branch `release-0.5.2`, tag `v0.5.2`)
 - [0.5.3: visitors counted with Cloudflare Web Analytics](releases/0.5.3) (branch `release-0.5.3`, tag `v0.5.3`)
+- [0.5.4: the website is always light](releases/0.5.4) (branch `release-0.5.4`, tag `v0.5.4`)
 
 ## Vocabulary
 
