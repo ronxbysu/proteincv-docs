@@ -25,6 +25,10 @@ ProteinCV has two sides. The **writing side** marks a CV PDF so that any AI read
 - [0.5.3: visitors counted with Cloudflare Web Analytics](releases/0.5.3) (branch `release-0.5.3`, tag `v0.5.3`)
 - [0.5.4: the website is always light](releases/0.5.4) (branch `release-0.5.4`, tag `v0.5.4`)
 - [0.5.5: Word documents, on the command line](releases/0.5.5) (branch `release-0.5.5`, tag `v0.5.5`)
+- [0.6.4: new Accounts and Guests for Admins, with a chart; the site and the API no longer say "Jev"](releases/0.6.4) (branch `release-0.6.4`, tag `v0.6.4`)
+- [0.6.3: one burger menu, and the pages are called Documents and Fit Check](releases/0.6.3) (branch `release-0.6.3`, tag `v0.6.3`)
+- [0.6.2: Test fit on the website is free and takes any CV](releases/0.6.2) (branch `free-test-fit`, tag `v0.6.2`)
+- [0.6.1: the home page leads with CV fit, and a CV has limits on its length](releases/0.6.1) (branch `release-0.6.1`, tag `v0.6.1`)
 - [0.6.0: the API, CV fit on Jev, and Word CVs on the website](releases/0.6.0) (branch `release-0.6.0`, tag `v0.6.0`)
 
 ## Vocabulary
