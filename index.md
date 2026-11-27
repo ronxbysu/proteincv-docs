@@ -25,6 +25,7 @@ ProteinCV has two sides. The **writing side** marks a CV PDF so that any AI read
 - [0.5.3: visitors counted with Cloudflare Web Analytics](releases/0.5.3) (branch `release-0.5.3`, tag `v0.5.3`)
 - [0.5.4: the website is always light](releases/0.5.4) (branch `release-0.5.4`, tag `v0.5.4`)
 - [0.5.5: Word documents, on the command line](releases/0.5.5) (branch `release-0.5.5`, tag `v0.5.5`)
+- [0.8.4: Skill names that are names](releases/0.8.4) (branch `release-0.8.4`)
 - [0.8.3: The link preview image under a new address](releases/0.8.3) (a hotfix from `main`)
 - [0.8.2: Core Requirements and close substitutes](releases/0.8.2) (branch `release-0.8.2`)
 - [0.8.1: Related experience](releases/0.8.1) (branch `release-0.8.1`)
